@@ -1,0 +1,6 @@
+[submodule "libs/sudal-response"]
+	path = libs/sudal-response
+	url = https://github.com/SudalKing/sudal-response.git
+[submodule "libs/sudal-logging"]
+	path = libs/sudal-logging
+	url = https://github.com/SudalKing/sudal-logging.git
